@@ -18,6 +18,6 @@ Note: It would be possible (and better) to deploy the certificate using Key Vaul
 This was taken from Michael Hansen's Git hub repo but with the links below still working.
 https://github.com/hansenms/iac/tree/master/ase  I do not try and take credit for his work.  Just needed a copy with the links working on it again.
 
-<a href="https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSQLLord%2FASEV2withILB%2Fblob%2Fmaster%2Fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSQLLord%2FASEV2withILB%2Fmaster%2Fazuredeploy.json" target="_blank">
 <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.png"
 </a>
