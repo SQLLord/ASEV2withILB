@@ -15,10 +15,6 @@ This will generate a parameter file that you can use to either copy/paste from o
 
 Note: It would be possible (and better) to deploy the certificate using Key Vault, but this workflow is not supported in all clouds (including sovereign clouds); for compatibility reasons, the certificate is passed as a string blob in this template.
 
-<a href="https://transmogrify.azurewebsites.net/ase/azuredeploy.json" target="_blank">
-    <img src="http://azuredeploy.net/deploybutton.png"/>
-</a>
-
-<a href="https://transmogrify.azurewebsites.net/ase/azuredeploy.json?environment=gov" target="_blank">
+<a href="https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSQLLord%2FASEV2withILB%2Fblob%2Fmaster%2Fazuredeploy.json" target="_blank">
 <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.png"
 </a>
